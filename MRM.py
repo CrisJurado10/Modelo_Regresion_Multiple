@@ -55,7 +55,7 @@ plt.show()
 # ===============================
 # ANÁLISIS TÉCNICO DEL MODELO
 # ===============================
-# Se entrenó un modelo de Regresión Lineal Múltiple sobre un conjunto de datos con más de 1400 viviendas,
+# Se entrenó un modelo de Regresión No Lineal Múltiple sobre un conjunto de datos con más de 1400 viviendas,
 # utilizando variables relevantes tanto numéricas como categóricas. Las variables categóricas fueron transformadas
 # mediante codificación OneHot para ser compatibles con el modelo lineal.
 #Funcion del Modelo lineal multiple: y = β₀ + β₁x₁ + β₂x₂ + ... + βₙxₙ + ε
